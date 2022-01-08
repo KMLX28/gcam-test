@@ -1,4 +1,4 @@
-##Installation
+## Installation
 
 1. `sail up`
 2. `sail artisan migration --seed`
